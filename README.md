@@ -1,6 +1,6 @@
 # NLP Assignment 4: Q1-Q7 implementation
 
-This is an AI-assisted independent-study implementation of the released assignment. It contains only the code needed for the BERT and pretrained T5 experiments; no extra-credit experiment was run. Course submission and sharing permissions must be handled separately.
+It contains only the code needed for the BERT and pretrained T5 experiments; no extra-credit experiment was run. Course submission and sharing permissions must be handled separately.
 
 The official starter is https://github.com/gregdurrett/nyu-dsga1011-a4 at commit `e67bb117926a8179baf8eb00ee4d94544408e550`. Obtain the released Part 2 `data/` directory and ground-truth development records from that starter. No hidden test labels are used.
 

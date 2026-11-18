@@ -1,4 +1,3 @@
-"""AI-assisted self-study reference; reported scores must come from actual runs."""
 import argparse
 import hashlib
 import json

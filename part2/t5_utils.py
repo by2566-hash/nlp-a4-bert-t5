@@ -1,4 +1,3 @@
-"""AI-assisted self-study reference: initialization and portable model checkpoints."""
 import json
 from pathlib import Path
 

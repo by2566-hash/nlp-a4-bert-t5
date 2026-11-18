@@ -1,4 +1,3 @@
-"""AI-assisted self-study reference: aligned, lossless text-to-SQL input pipeline."""
 from functools import partial
 from pathlib import Path
 import re
